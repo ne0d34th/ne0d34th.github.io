@@ -18,17 +18,17 @@ avatar: https://avatars2.githubusercontent.com/u/6068408
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: sn0den@national.shitposting.agency
   facebook:
   flickr:
   github: ne0d34th
-  instagram:
-  linkedin:
-  pinterest:
+  #instagram:
+  #linkedin:
+  #pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UC010PaXR3Yba-3xnwIlN6kw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
