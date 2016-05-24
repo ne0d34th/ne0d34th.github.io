@@ -158,6 +158,9 @@ img {
   width: 15%;
   left: 5%;
   position: absolute;
+  @media only screen and (max-device-width: 480px) {
+    width: 100%;
+  }
 
 }
 
