@@ -258,6 +258,10 @@ nav {
 .svg-links {
   float: left;
   margin-top: 10px;
+  @include mobile {
+    float: none;
+    text-align: center;
+  }
 }
 
 //
