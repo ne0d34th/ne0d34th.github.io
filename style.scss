@@ -158,7 +158,7 @@ img {
   width: 15%;
   left: 5%;
   position: absolute;
-  @media only screen and (max-device-width: 480px) {
+  @include mobile {
     width: 100%;
     right: 2%;
     position: relative;
@@ -271,7 +271,7 @@ nav {
   float: right;
   /*background: $gray;*/
   /*border: 1px solid #990000;*/
-  @media only screen and (max-device-width: 480px) {
+  @include mobile {
     float: none;
     width: 100%;
   }
